@@ -1,0 +1,7 @@
+assets:
+- method: copy
+  name: scripts/ChainTracking.lua
+  source:
+  - name: ChainTracking.lua
+description: See the lua for details
+title: ChainTracking.lua
